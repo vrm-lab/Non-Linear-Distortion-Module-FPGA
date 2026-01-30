@@ -194,4 +194,6 @@ Provided as-is, without warranty.
 
 ---
 
+## Notes
+
 > **This repository demonstrates design decisions, not design possibilities.**
