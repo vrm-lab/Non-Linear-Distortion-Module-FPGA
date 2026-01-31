@@ -7,6 +7,8 @@ implemented in **Verilog** and integrated with **AXI-Stream**.
 Target platform: **AMD Kria KV260**  
 Focus: **RTL architecture, fixed-point DSP decisions, and AXI correctness**
 
+Real-time, continuous streaming design with deterministic latency.
+
 ---
 
 ## Overview
